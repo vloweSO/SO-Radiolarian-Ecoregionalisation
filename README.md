@@ -1,7 +1,15 @@
 # SO-Radiolarian-Ecoregionalisation
 "Ecoregionalisation of the Southern Ocean using radiolarians" code and data
 
-This code was adapted from Borcard et al., (2018)
+This code was adapted from Borcard et al. (2018)
+
+A separate set of data has been provided for:
+  1. Southern Ocean analyses, each file preceded by "SO"
+  2. Atlantic Sector analyses, each file preceded by "A"
+  3. Indian Sector analyses, each file preceded by "I"
+  4. Southwest Pacific Sector analyses, each file preceded by "P"
+
+Code for 2 functions have been provided. These were orignially supplied with code for "Numerical Ecology with R" by Borcard et al. (2018).
 
 Please cite the following when using the datasets provided:
 
