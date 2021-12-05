@@ -22,3 +22,8 @@ Environmental Data (env):
 Garcia H.E., T.P. Boyer, O.K. Baranova, R.A. Locarnini, A.V. Mishonov, A. Grodsky, C.R. Paver, K.W. Weathers, I.V. Smolyar, J.R. Reagan, D. Seidov, M.M. Zweng (2019). World Ocean Atlas 2018: Product Documentation. A. Mishonov, Technical Editor.
 
 Monterey, G. and Levitus, S., 1997: Seasonal Variability of Mixed Layer Depth for the World Ocean. NOAA Atlas NESDIS 14, U.S. Gov. Printing Office, Wash., D.C.
+
+
+
+References:
+Borcard, D., Gillet, F., and Legendre, P. (2018). Numerical Ecology with R. 2nd ed. Cham: Springer International Publishing.
