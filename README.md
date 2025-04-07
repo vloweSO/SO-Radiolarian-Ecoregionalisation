@@ -9,7 +9,7 @@ A separate set of data has been provided for:
   3. Indian Sector analyses, each file preceded by "I"
   4. Southwest Pacific Sector analyses, each file preceded by "P"
 
-Code for 2 functions have been provided. These were orignially supplied with code for "Numerical Ecology with R" by Borcard et al. (2018).
+Code for 2 functions have been provided. These were originally supplied with code for "Numerical Ecology with R" by Borcard et al. (2018).
 
 Please cite the following when using the datasets provided:
 
